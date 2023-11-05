@@ -1,5 +1,5 @@
-### Hey there! ✌
-
+### Hey there! ✌ I'm Rafa! 😉
+##
 - 🔭 Software Engineer
 - 🌱 Currently learning React
 - 👯 I’m looking to collaborate on ...
