@@ -9,7 +9,7 @@
 <div>
    <a href="https://github.com/rafael-dscarvalho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-dscarvalho&show_icons=true&theme=radical">
-    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-dscarvalho&layout=compact&theme=radical">
 </div>
 
 <h1>🖥 Techs:</h1>
