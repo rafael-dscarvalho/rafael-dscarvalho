@@ -5,6 +5,7 @@
  💬 You can ask me about anything software related, if I don't know how to answer you, I'll be glad to learn about the topic (I really do like coding a lot)<br>
  ⏳ Besides coding, i really love cats, games and high fantasy books!<br>
 ##
+<h2>🖥 Techs:</h2>
  <div>
    <img align="center" alt="rafa-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
    <img align="center" alt="rafa-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -22,7 +23,7 @@
 </div>
 
  ##
- 
+ <h2>🌐 Socials:</h2>
  <div>
    <a href ="https://www.instagram.com/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
    <a href ="https://www.linkedin.com/in/rafael-dscarvalho/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
