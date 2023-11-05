@@ -18,8 +18,6 @@
  <img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBrc21uNml5YXVucXo0a2ppdXFzcDFvZm9xdXVlaTFkY2RxMm1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2jGSRomyecXmuokUH4/giphy.gif">
 </div>
  </div>
-
-  ##
   
   <h2>🌐 Socials:</h2>
  <div>
@@ -29,9 +27,6 @@
 
  <br>
  
-<div>
- <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBrc21uNml5YXVucXo0a2ppdXFzcDFvZm9xdXVlaTFkY2RxMm1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2jGSRomyecXmuokUH4/giphy.gif">
-</div>
 
 
 
