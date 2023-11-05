@@ -14,6 +14,9 @@
    <img align="center" alt="rafa-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="rafa-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
    <img align="center" alt="rafa-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <div>
+ <img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBrc21uNml5YXVucXo0a2ppdXFzcDFvZm9xdXVlaTFkY2RxMm1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2jGSRomyecXmuokUH4/giphy.gif">
+</div>
  </div>
 
   ##
@@ -27,7 +30,7 @@
  <br>
  
 <div>
- <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBrc21uNml5YXVucXo0a2ppdXFzcDFvZm9xdXVlaTFkY2RxMm1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2jGSRomyecXmuokUH4/giphy.gif">
+ <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBrc21uNml5YXVucXo0a2ppdXFzcDFvZm9xdXVlaTFkY2RxMm1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2jGSRomyecXmuokUH4/giphy.gif">
 </div>
 
 
