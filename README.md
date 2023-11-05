@@ -7,7 +7,8 @@
  ⏳ Besides coding, i really love cats, games and high fantasy books!<br>
 
  <div>
-   <img height="180em" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
  </div>
  
  <div>
