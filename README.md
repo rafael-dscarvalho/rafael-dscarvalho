@@ -1,4 +1,4 @@
-## Hey there! ✌ I'm Rafa! 😉
+## <h1>Hey there! ✌ I'm Rafa! 😉</h1>
 ##
 - 🔭 Software Engineer
 - 🌱 Currently learning React
