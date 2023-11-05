@@ -6,8 +6,9 @@
  ⏳ Besides coding, i really love cats, games and high fantasy books!<br>
 ##
  <div>
-   <img align="center" alt="rafa-html" height="50" width="60" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+   <img align="center" alt="rafa-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+   <img align="center" alt="rafa-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+   <img align="center" alt="rafa-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 
  </div>
