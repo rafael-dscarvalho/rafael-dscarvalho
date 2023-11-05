@@ -4,6 +4,13 @@
  💡 I love creating applications that make a difference!<br>
  💬 You can ask me about anything software related, if I don't know how to answer you, I'll be glad to learn about the topic (I really do like coding a lot)<br>
  ⏳ Besides coding, i really love cats, games and high fantasy books!<br>
+<h1>📊 Stats:</h1>
+
+<div>
+   <a href="https://github.com/rafael-dscarvalho">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-dscarvalho)](https://github.com/anuraghazra/github-readme-stats">
+    
+</div>
 
 <h1>🖥 Techs:</h1>
  <div>
