@@ -1,4 +1,4 @@
-### Hey there! ✌ I'm Rafa! 😉
+## Hey there! ✌ I'm Rafa! 😉
 ##
 - 🔭 Software Engineer
 - 🌱 Currently learning React
