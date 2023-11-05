@@ -4,7 +4,7 @@
  💡 I love creating applications that make a difference!<br>
  💬 You can ask me about anything software related, if I don't know how to answer you, I'll be glad to learn about the topic (I really do like coding a lot)<br>
  ⏳ Besides coding, i really love cats, games and high fantasy books!<br>
-<h1>📊 Stats:</h1>
+<h1>📊 Stats</h1>
 
 <div>
    <a href="https://github.com/rafael-dscarvalho">
@@ -12,7 +12,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-dscarvalho&layout=compact&theme=radical">
 </div>
 
-<h1>🖥 Techs:</h1>
+<h1>🖥 Skills</h1>
  <div>
    <img align="center" alt="rafa-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
    <img align="center" alt="rafa-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -26,7 +26,7 @@
 </div>
  </div>
   
-  <h2>🌐 Socials:</h2>
+  <h1>🌐 Socials</h1>
  <div>
    <a href ="https://www.instagram.com/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
    <a href ="https://www.linkedin.com/in/rafael-dscarvalho/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
