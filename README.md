@@ -1,4 +1,4 @@
-## <h1>Hey there! ✌ I'm Rafa! 😉</h1>
+#<h1>Hey there! ✌ I'm Rafa! 😉</h1>
 <img src="https://camo.githubusercontent.com/1e2d21053078bfce95a49055362115d90262781298f934e827550c922df3f8cd/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966">
  💻 Software Developer from Brazil, welcome to my profile!<br>
  🎓 Computer Science Student<br>
