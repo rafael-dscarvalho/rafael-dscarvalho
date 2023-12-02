@@ -1,6 +1,6 @@
 
 <h1>
- <img src="https://readme-typing-svg.herokuapp.com/?size=26&font=Open+Sans&color=F7F7F7&weight=700&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Rafa!+😉;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?size=26&font=Open+Sans&color=F7F7F7&weight=700&width=500&height=30&duration=4000&lines=Hey+There!+👋;+I'm+Rafa!+😉;" />
 </h1>
 ##
  
