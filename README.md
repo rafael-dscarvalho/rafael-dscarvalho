@@ -1,7 +1,7 @@
 <h1>Hey there! ✌ I'm Rafa! 😉</h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="800px">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndhZzNpNXVudm00NjI1b2pncnAybmdheWszMmlmaWcxazcxbXFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZWWusyMKMewIg26nP4/source.gif">
 
  💻 Software Developer from Brazil, welcome to my profile!<br>
  🎓 Computer Science Student<br>
@@ -26,7 +26,7 @@
    <img align="center" alt="rafa-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
    <img align="center" alt="rafa-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <div>
- <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndhZzNpNXVudm00NjI1b2pncnAybmdheWszMmlmaWcxazcxbXFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZWWusyMKMewIg26nP4/source.gif">
+
 </div>
  </div>
   
