@@ -2,7 +2,7 @@
 <h1>
  <img src="https://readme-typing-svg.herokuapp.com/?size=30&font=Open+Sans&color=F7F7F7&weight=700&width=500&height=50&duration=4000&lines=Hey+There!+👋;+I'm+Rafa!+😉;" />
 </h1>
-#
+
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="850px">
 
