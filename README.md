@@ -1,5 +1,5 @@
 <h1>Hey there! ✌ I'm Rafa! 😉</h1>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="800px">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
