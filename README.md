@@ -34,7 +34,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="850px">
 
   
- <h2 align='center'>Contact me</h2>
+ <h1 align='center'>🌐 Contact me</h1>
 
  <div align='center'>
    <a href ="https://www.instagram.com/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
