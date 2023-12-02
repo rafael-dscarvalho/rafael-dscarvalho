@@ -29,11 +29,14 @@
 
 </div>
  </div>
-
+  <br>
+  <br>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="850px">
+
   
-  <h1>🌐 Socials</h1>
- <div>
+ <h2 align='center'>Contact me</h2>
+
+ <div align='center'>
    <a href ="https://www.instagram.com/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
    <a href ="https://www.linkedin.com/in/rafael-dscarvalho/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
    <a href ="mailto:rafaeldscarvalho@hotmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
