@@ -1,4 +1,4 @@
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Rafa!+😉;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Rafa!+😉;" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="850px">
 
