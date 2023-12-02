@@ -1,3 +1,4 @@
+<h1>Hey there! ✌ I'm Rafa! 😉</h1>
 <h1>
  <img src="https://readme-typing-svg.herokuapp.com/?size=35&Color=000&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Rafa!+😉;" />
 </h1>
