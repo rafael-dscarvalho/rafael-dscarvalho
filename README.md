@@ -13,14 +13,11 @@
  
  ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br>
 
-
 <div>
    <a href="https://github.com/rafael-dscarvalho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-dscarvalho&show_icons=true&theme=radical">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-dscarvalho&layout=compact&theme=radical">
 </div>
-
-
 
 </div>
  </div>
@@ -33,10 +30,4 @@
    <a href ="mailto:rafaeldscarvalho@hotmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
 
- 
 
-
-
-
-
- 
