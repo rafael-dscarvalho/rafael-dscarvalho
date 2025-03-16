@@ -8,10 +8,8 @@
 
 <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndhZzNpNXVudm00NjI1b2pncnAybmdheWszMmlmaWcxazcxbXFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZWWusyMKMewIg26nP4/source.gif">
 
- 💻 Software Developer from Brazil, welcome to my profile!<br>
- 🎓 Computer Science Student<br>
- 💡 I love creating applications that make a difference!<br>
- 💬 You can ask me about anything software related, if I don't know how to answer you, I'll be glad to learn about the topic (I really do like coding a lot)<br>
+ 💻 Software Developer @Philips 💙
+ 🎓 Computer Science Student @Furb<br>
  ⏳ Besides coding, i really love cats, games, animes, thriller/horror movies and high fantasy books!<br>
 <h1>📊 Stats</h1>
 
@@ -21,16 +19,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-dscarvalho&layout=compact&theme=radical">
 </div>
 
-<h1>🖥 Skills</h1>
- <div>
-   <img align="center" alt="rafa-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-   <img align="center" alt="rafa-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-   <img align="center" alt="rafa-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="rafa-ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-   <img align="center" alt="rafa-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" alt="rafa-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-   <img align="center" alt="rafa-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <div>
+
 
 </div>
  </div>
