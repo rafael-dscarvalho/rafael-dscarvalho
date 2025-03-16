@@ -11,8 +11,9 @@
  
  🎓 Computer Science Student @Furb<br>
  
- ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br><br>
- 
+ ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br>
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="850px">
 
 <div>
    <a href="https://github.com/rafael-dscarvalho">
