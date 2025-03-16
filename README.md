@@ -7,10 +7,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="850px">
 
 <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndhZzNpNXVudm00NjI1b2pncnAybmdheWszMmlmaWcxazcxbXFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZWWusyMKMewIg26nP4/source.gif">
-<br><br>
+<br>
  💻 Software Developer @Philips 💙<br>
+ 
  🎓 Computer Science Student @Furb<br>
- ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br><br><br>
+ 
+ ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br><br>
  
 
 <div>
