@@ -12,7 +12,7 @@
  🎓 Computer Science Student @Furb<br>
  
  ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br>
-
+<h1></h1>
 <div>
    <a href="https://github.com/rafael-dscarvalho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-dscarvalho&show_icons=true&theme=radical">
@@ -22,7 +22,7 @@
 </div>
  </div>
  
-
+ <h1 align='center'>🌐 Contact me</h1>
 
  <div align='center'>
    <a href ="https://www.instagram.com/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
