@@ -11,7 +11,7 @@
  
  🎓 Computer Science Student @Furb<br>
  
- ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br>
+ ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br><br>
  
 
 <div>
