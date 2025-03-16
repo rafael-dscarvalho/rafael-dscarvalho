@@ -10,7 +10,7 @@
 
  💻 Software Developer @Philips 💙<br>
  🎓 Computer Science Student @Furb<br>
- ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br>><br>><br>
+ ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br><br><br>
  
 
 <div>
