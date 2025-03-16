@@ -10,7 +10,8 @@
 
  💻 Software Developer @Philips 💙<br>
  🎓 Computer Science Student @Furb<br>
- ⏳ Besides coding, i really love cats, games, animes, thriller/horror movies and high fantasy books!<br>
+ ⏳ Besides coding, i really love cats, games, animes, thriller/horror movies and high fantasy books!<br>!<br>
+ 
 <h1>📊 Stats</h1>
 
 <div>
