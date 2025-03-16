@@ -8,7 +8,7 @@
 
 <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndhZzNpNXVudm00NjI1b2pncnAybmdheWszMmlmaWcxazcxbXFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZWWusyMKMewIg26nP4/source.gif">
 
- 💻 Software Developer @Philips 💙
+ 💻 Software Developer @Philips 💙<br>
  🎓 Computer Science Student @Furb<br>
  ⏳ Besides coding, i really love cats, games, animes, thriller/horror movies and high fantasy books!<br>
 <h1>📊 Stats</h1>
