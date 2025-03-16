@@ -3,9 +3,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?size=30&font=Open+Sans&color=F7F7F7&weight=700&width=500&height=50&duration=4000&lines=Hey+There!+👋;" />
 </h1>
 
- <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="850px">
-
+<br>
 <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndhZzNpNXVudm00NjI1b2pncnAybmdheWszMmlmaWcxazcxbXFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZWWusyMKMewIg26nP4/source.gif">
 
  💻 Software Developer @Philips<br>
