@@ -10,9 +10,8 @@
 
  💻 Software Developer @Philips 💙<br>
  🎓 Computer Science Student @Furb<br>
- ⏳ Besides coding, i really love cats, games, animes, thriller/horror movies and high fantasy books!<br>!<br>
+ ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br>
  
-<h1>📊 Stats</h1>
 
 <div>
    <a href="https://github.com/rafael-dscarvalho">
@@ -26,7 +25,6 @@
  </div>
   <br>
   <br>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="850px">
 
   
  <h1 align='center'>🌐 Contact me</h1>
