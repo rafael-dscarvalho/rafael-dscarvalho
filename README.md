@@ -25,10 +25,7 @@
 
 </div>
  </div>
-  <br>
-  <br>
-
-  
+ 
  <h1 align='center'>🌐 Contact me</h1>
 
  <div align='center'>
